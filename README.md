@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nsym-coding
-- 👀 I’m interested in looking for internship opportunities whilst on the 01 Founders fellowship.
-- 🌱 I’m currently learning Golang.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in looking for job opportunities whilst on the 01 Founders fellowship.
+- 🌱 I’m currently learning Golang, Javascript & Rust.
 - 📫 How to reach me: Twitter -> @nsym_coding, Email -> nsym.coding@outlook.com
 
 <!---
