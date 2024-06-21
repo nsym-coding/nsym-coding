@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nsym-coding
-- 📫 How to reach me: Twitter -> @nsym_coding, Email -> nsym.coding@outlook.com
+- 📫 How to reach me: Email -> nsym.coding@outlook.com
 
 <!---
 nsym-coding/nsym-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
